@@ -24,9 +24,9 @@ article:
 # Navigation bar menu links.
 menu:
   Archives: /archives
-  Lifestyle: /categories/LifeStyle
-  Music: /categories/Music
-  Technology: /categories/Technology
+  Food: /categories/food
+  Drink: /categories/drink
+  Life: /categories/life
   About: /about
 
 # Search plugin settings.
@@ -36,19 +36,19 @@ search:
 # Share plugin settings.
 share:
   type: sharethis
-  install_url:
+  install_url: "//platform-api.sharethis.com/js/sharethis.js#property=5b8d6c07a2099600115fabe3&product=sop"
 
 # Comment plugin settings.
 comment:
   type: disqus
-  shortname:
+  shortname: nininanaa
 
 # Other plugins and their settings.
 plugins:
   mathjax: true
   gallery: true
   google-analytics:
-    tracking_id:
+    tracking_id: UA-125133080-1
 
 # Additional navigation bar links on the right.
 # Links can either be text or icon. The following link is set to be an icon link whose icon
@@ -57,8 +57,8 @@ plugins:
 navbar_links:
   GitHub:
     icon: fab fa-github
-    url: https://github.com/nininanaa/hexo-theme-minos
+    url: https://github.com/nininanaa/nininanaa.github.io
 
 # Links at the bottom of the page.
 footer_links:
-  GitHub: https://github.com/nininanaa/hexo-theme-minos
+  GitHub: https://github.com/nininanaa/nininanaa.github.io
