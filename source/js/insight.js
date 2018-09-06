@@ -233,3 +233,8 @@
         touch = false;
     });
 })(jQuery, window.INSIGHT_CONFIG);
+
+if(location.search.indexOf('q=')!==-1){
+    $('.search').trigger('click');
+    $('.searchbox-input').val(location.search.split('q=')[1])
+}
