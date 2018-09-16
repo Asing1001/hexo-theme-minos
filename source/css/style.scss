@@ -30,8 +30,21 @@ a.tag.article-tag {
     .navbar-logo {
         font-size: 1.5rem;
         font-weight: 600;
+        img {
+            max-height: 60px;
+        }
     }
 
+    .navbar-brand {
+        justify-content: center;
+    }
+
+    .navbar-burger {
+        position: absolute;
+        right: 0;
+        height: 76px;
+    }
+    
     .navbar-item {
         text-align: center;
     }
