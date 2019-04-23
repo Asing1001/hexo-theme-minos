@@ -40,8 +40,7 @@ share:
 
 # Comment plugin settings.
 comment:
-  type: disqus
-  shortname: nininanaa
+  type: facebook
 
 # Other plugins and their settings.
 plugins:
