@@ -24,10 +24,9 @@ article:
 
 # Navigation bar menu links.
 menu:
-  Archives: /archives
+  Netherlands: /categories/netherlands
   Food: /categories/food
-  Drink: /categories/drink
-  Life: /categories/life
+  Timeline: /timeline
   About: /about
 
 # Search plugin settings.
