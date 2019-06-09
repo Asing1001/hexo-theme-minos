@@ -7,7 +7,7 @@ open_graph:
   twitter_site:
   google_plus:
   fb_admins:
-  fb_app_id:
+  fb_app_id: '871449596552020'
 
 # Website's logo shown on the left of the navigation bar.
 # It can either be an url to an image or a string if the following option is set.
