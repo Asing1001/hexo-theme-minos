@@ -54,10 +54,15 @@ plugins:
 # is set to the class name of a FontAwesome 5 icon. The `footer_links` below also gives an
 # example of setting plain text links.
 navbar_links:
+  Facebook:
+    icon: fab fa-facebook
+    url: https://www.facebook.com/Nininanaa%E5%A6%AE-%E5%A6%AE%E5%BE%B7%E8%98%AD-487163125354557/
+
+# Links at the bottom of the page.
+footer_links:  
   GitHub:
     icon: fab fa-github
     url: https://github.com/nininanaa/nininanaa.github.io
-
-# Links at the bottom of the page.
-footer_links:
-  GitHub: https://github.com/nininanaa/nininanaa.github.io
+  Facebook:
+    icon: fab fa-facebook
+    url: https://www.facebook.com/Nininanaa%E5%A6%AE-%E5%A6%AE%E5%BE%B7%E8%98%AD-487163125354557/
